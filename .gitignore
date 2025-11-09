@@ -1,0 +1,14 @@
+# Data artifacts
+/data/
+**/BIRD*/
+*.zip
+*.tar.gz
+*.tgz
+*.tar
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
